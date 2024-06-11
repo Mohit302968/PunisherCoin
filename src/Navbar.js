@@ -42,7 +42,7 @@ const NavBar = () => (
           </li>
         </ul>
       </div>
-      <div className="d-lg-flex d-xl-flex d-sm-none d-md-none ">
+      <div className="d-none d-lg-flex">
         <button className="btn btn-danger connect-button">Connect</button>
       </div>
     </div>
