@@ -1,0 +1,80 @@
+.footer-icon{
+    height: 100px;
+    width: 100px;
+    margin-left: -240px;
+}
+
+.footerlast {
+    background-color: #000;
+    color: #fff;
+    padding: 40px 0;
+}
+.list-unstyled a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footerlast h5 {
+    color: #e74c3c;
+}
+.footer a {
+    color: #ff0000;
+    text-decoration: none;
+}
+.footer a:hover {
+    color: #fff;
+}
+.footer .logo {
+    display: flex;
+    align-items: center;
+}
+.footer .logo img {
+    width: 50px;
+    margin-right: 10px;
+}
+.button-container-new button {
+    padding: 4px 14px;
+}
+.disclaimer {
+    margin-top: 20px;
+}
+
+.button-container-new .join-button {border-bottom: 4px solid #fff !important;}
+
+.button-container-new .white-button {
+    border-bottom: 4px solid #e74c3c !important;
+}
+.footer .btn-custom {
+    background-color: #ff0000;
+    color: #fff;
+    border-radius: 20px;
+    margin: 10px 5px;
+}
+.footer .btn-custom:hover {
+    background-color: #fff;
+    color: #ff0000;
+}
+.footer .disclaimer {
+    margin-top: 20px;
+    font-size: 12px;
+}
+#footerp{
+    color:white;
+}
+.footerpcss{
+    color:white;
+    text-align: start;
+    margin: 20px;
+}
+
+@media (max-width: 768px) {
+.footerlast {
+    padding-bottom: 100%;
+}
+.footerlast h5 {
+    margin-top: 16px;
+}
+.footerpcss {
+    margin: 10px 10px 10px 0px;
+}
+}
